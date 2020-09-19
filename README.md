@@ -1,4 +1,4 @@
-# Team Binaries - Smart India Hackathon 2020
+# Team Binaries - Smart India Hackathon 2020 Winner
 
 ## The problem Kisan Mitra solves
 1. Connects farmers directly to the buyers.
